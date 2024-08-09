@@ -42,6 +42,6 @@ Or you can directly run "output/mainApp/mainApp.exe" on windows operating system
 
 ## Getting started with the toolkit
 
-Refer to [iHVI User Manual](Documentation.md) for detailed explanation on the steps.
+Refer to [iHVI User Manual](User Manual.md) for detailed explanation on the steps.
 
 
