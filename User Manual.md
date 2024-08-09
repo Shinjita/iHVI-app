@@ -18,8 +18,11 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 [Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below:
 <img width="50%" alt="image" src="https://github.com/Shinjita/iHVI-app/blob/372a43f42639bb2194012ab6017c567082e549a8/Column_name.png">
 
-5. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly. ![image info](Step_6.png)
+5. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly.
+![image info](Step_6.png)
 
-6. Click on three index buttons to calculate Heat Exposure Index, Heat Sensitivity Index, and Adaptive Capability Index. Click on 'select folder' button to download the file in specific folder in CSV format. ![image info](Step_7.png)
+6. Click on three index buttons to calculate Heat Exposure Index, Heat Sensitivity Index, and Adaptive Capability Index. Click on 'select folder' button to download the file in specific folder in CSV format.
+![image info](Step_7.png)
 
-7. Click on Heat Vulnerability Score button and Heat Vulnerability Index button to calculate the vulnerability index for the selected SA1s. ![image info](Step_8.png)
+7. Click on Heat Vulnerability Score button and Heat Vulnerability Index button to calculate the vulnerability index for the selected SA1s.
+![image info](Step_8.png)
