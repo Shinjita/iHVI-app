@@ -13,6 +13,6 @@ For environmental parameters (LST, NDVI, NDBI):  SA1_CODE21 and mean [image info
 
 For socio-economic indicators (Population Density, Age_65+, Age_4-, Population need care, Education level, Income level) [image info]()
 
-3. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic csv files. [image info]()
+3. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic csv files. [image info]()df
 
 4. 
