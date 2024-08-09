@@ -24,4 +24,4 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 6. Click on three index buttons to calculate Heat Exposure Index, Heat Sensitivity Index, and Adaptive Capability Index. Click on 'select folder' button to download the file in specific folder in CSV format. ![image info](Step_7.png)
 
-7. Click on Heat Vulnerability Index button to calculate the vulnerability index for the SA1s. 
+7. Click on Heat Vulnerability Score button and Heat Vulnerability Index button to calculate the vulnerability index for the selected SA1s. ![image info](Step_8.png)
