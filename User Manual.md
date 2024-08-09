@@ -5,8 +5,6 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 <img width="100%" alt="image" src="https://github.com/Shinjita/iHVI-app/blob/0ad7f4434d2fc5a4e344441d656974e6030a2853/GUI.png">
 
-![image info](GUI.png). 
-
 
 ## Running the iHVI tool:
 
