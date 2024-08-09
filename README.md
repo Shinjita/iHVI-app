@@ -40,8 +40,8 @@ python mainApp.py
 ----
 Or you can directly run "output/mainApp/mainApp.exe" on windows operating system.
 
-## Technical documentation
+## Getting started with the toolkit
 
-Refer to [iHVI User Manual](Documentation.md) for more detailed explanation on iHVI operation
+Refer to [iHVI User Manual](Documentation.md) for detailed explanation on the steps.
 
 
