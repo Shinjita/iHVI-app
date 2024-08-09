@@ -6,15 +6,15 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 ## Getting started with the toolkit: 
 
-1. Obtain environmental parameters from iGEE and socio economic indicators from ABS website in .csv format.
+1. Obtain environmental parameters from iGEE and socio-economic indicators from ABS website in .csv format.
  ![image info](Indicators.png)
 
 2. Prepare seperate .csv files for each indicators/parameters.
  ![image info](Data_indicator_CSV.png)
 
-3. Check whether the file have necessary column names for the input data as shown below [Note: the file name can be different but it will not affect the process]. [image info]()
+3. Check whether the file have necessary column names for the input data as shown below [Note: the file name can be different but it will not affect the process].
 
-  For environmental parameters: SA1_CODE21 and LSTmean, SA1_CODE21 and NDVImean, SA1_CODE21 and NDBImean [image info]()
+  For environmental parameters: SA1_CODE21 and LSTmean, SA1_CODE21 and NDVImean, SA1_CODE21 and NDBImean ![image info]()
 
   For socio-economic indicators: Population Density, SA1_CODE21 and Age_65+, SA1_CODE21 and Age_4-, SA1_CODE21 and Population need care, SA1_CODE21 and Education level, SA1_CODE21 and Income level [image info]()
 
