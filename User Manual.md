@@ -6,9 +6,11 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 ## Getting started with the toolkit: 
 
-1. Obtain environmental parameters from iGEE and socio economic indicators from ABS website in .csv format. ![image info](Indicators.png)
+1. Obtain environmental parameters from iGEE and socio economic indicators from ABS website in .csv format.
+ ![image info](Indicators.png)
 
-2. Prepare seperate .csv files for each indicators/parameters. ![image info](Data_indicator_CSV.png)
+2. Prepare seperate .csv files for each indicators/parameters.
+ ![image info](Data_indicator_CSV.png)
 
 3. Check whether the file have necessary column names for the input data as shown below [Note: the file name can be different but it will not affect the process]. [image info]()
 
@@ -18,4 +20,4 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 4. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic csv files. [image info]()
 
-4. Once 
+5. Once 
