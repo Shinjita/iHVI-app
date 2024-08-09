@@ -15,7 +15,8 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 3. Prepare seperate .csv files for each indicators/parameters for input. ![image info](Data_indicator_CSV.png)
 
 4. Make sure the input data have two important columns marked in red, shown in image below. For environmental parameters columns  are: SA1_CODE21 and LSTmean, SA1_CODE21 and NDVImean, SA1_CODE21 and NDBImean and For socio-economic indicators columns are: Population Density, SA1_CODE21 and Age_65+, SA1_CODE21 and Age_4-, SA1_CODE21 and Population need care, SA1_CODE21 and Education level, SA1_CODE21 and Income level.
-[Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below: <img width="50%" alt="image" src="https://github.com/Shinjita/iHVI-app/blob/372a43f42639bb2194012ab6017c567082e549a8/Column_name.png">
+[Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below:
+<img width="50%" alt="image" src="https://github.com/Shinjita/iHVI-app/blob/372a43f42639bb2194012ab6017c567082e549a8/Column_name.png">
 
 6. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly. ![image info](Step_6.png)
 
