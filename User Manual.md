@@ -6,7 +6,7 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 ![image info](GUI.png). 
 
 
-## Getting started with the toolkit: 
+## Running the iHVI tool:
 
 1. Download the toolkit as instructed in this page https://github.com/Shinjita/iHVI-app. 
 
