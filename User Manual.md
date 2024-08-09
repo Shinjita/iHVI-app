@@ -19,9 +19,12 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 4. Make sure the input data have two important columns marked in red in image below. For environmental parameters columns required are: SA1_CODE21 and LSTmean, SA1_CODE21 and NDVImean, SA1_CODE21 and NDBImean and For socio-economic indicators columns required are: Population Density, SA1_CODE21 and Age_65+, SA1_CODE21 and Age_4-, SA1_CODE21 and Population need care, SA1_CODE21 and Education level, SA1_CODE21 and Income level.
 [Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below:  ![image info](Column_name.png)
 
+<img width="50%" alt="image" src="https://github.com/Shinjita/iHVI-app/blob/372a43f42639bb2194012ab6017c567082e549a8/Column_name.png">
 
-5. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly. ![image info](Step_6.png)
 
-6. Click on three index buttons to calculate Heat Exposure Index, Heat Sensitivity Index, and Adaptive Capability Index. Click on 'select folder' button to download the file in specific folder in CSV format. ![image info](Step_7.png)
 
-7. Click on Heat Vulnerability Score button and Heat Vulnerability Index button to calculate the vulnerability index for the selected SA1s. ![image info](Step_8.png)
+6. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly. ![image info](Step_6.png)
+
+7. Click on three index buttons to calculate Heat Exposure Index, Heat Sensitivity Index, and Adaptive Capability Index. Click on 'select folder' button to download the file in specific folder in CSV format. ![image info](Step_7.png)
+
+8. Click on Heat Vulnerability Score button and Heat Vulnerability Index button to calculate the vulnerability index for the selected SA1s. ![image info](Step_8.png)
