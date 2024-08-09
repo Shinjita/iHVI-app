@@ -20,6 +20,6 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 [Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below:  ![image info](Column_name.png)
 
 
-6. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted in the tool ![image info](Step 6.png) 
+6. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted in the tool ![image info](Step_6.png)
 
 7. Once 
