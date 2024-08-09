@@ -42,6 +42,6 @@ Or you can directly run "output/mainApp/mainApp.exe" on windows operating system
 
 ## Getting started with the toolkit
 
-Refer to User Manual.md for detailed explanation on the steps.
+Refer to [User Manual](https://github.com/Shinjita/iHVI-app/blob/e6bc3ca502b8b57630635317201aff42abf580e1/User%20Manual.md) for detailed explanation on the steps.
 
 
