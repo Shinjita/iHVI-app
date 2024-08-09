@@ -8,6 +8,9 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 ## Getting started with the toolkit: 
 
+1. Download the toolkit as instructed in this page (https://github.com/Shinjita/iHVI-app). 
+
+
 1. Obtain environmental parameters from iGEE and socio-economic indicators from ABS website in .csv format.
  ![image info](Indicators.png)
 
