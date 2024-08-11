@@ -1,6 +1,6 @@
 # iHVI tool - Heat Vulnerability Index open source desktop toolkit
 
-## Summary
+## Summary 
 The iHVI toolkit constructs heat sensitivity, heat adaptive capability indicators, and composite heat vulnerability index, which enables modelling of the relationships between heat, environmental and socio-economic factors. This desktop-based application is a first nationwide, dynamic and interactive heat vulnerability assessment toolkit with enhanced workflow, automated analysis and modelling tools, so the indicators and indices can be updated and constructed by the users to serve more applications.  
 
 ## Conceptual framework  
@@ -10,7 +10,7 @@ HVI is calculated as : Heat Vulnerability Index (HVI) = Heat Exposure index + He
 
 <img width="100%" alt="image" src="https://github.com/IGEE-IHVI/iHVI-app/blob/main/HVI%20conceptual%20framework.png">
 
-## iHVI application
+## Download the application 
 
 The iHVI desktop toolkit  was developed in the Python 3 environment. The primary packages consist of PySimpleGUIQt, Pandas, Numpy, and other Python builtin packages. PySimpleGUIQt is an integrated package for frontend user interface development. The Pandas and Numpy are mainly used for the heat vulnerability index and heat vulnerability score calculation functions’ development. The software compilation is based on the auto-pyto-exe converter, which is a Python-based converter that can compile Python files (.py) to executable files (.exe). The executable file will not require manual installation after downloading. 
 
