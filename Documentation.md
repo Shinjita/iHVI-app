@@ -5,11 +5,11 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 
 <img src="GUI.png" style="width:100%;"/>
 
-## Running the iHVI tool:
+##  How to run the iHVI tool - BThe following steps demonstrates how iHVI tool can be used to calculate Heat Vulnerability Index by integrating environmental and socio-economic indicators. 
 
-1. Download the toolkit as instructed in this page https://github.com/IGEE-IHVI/iHVI-app/tree/main. 
+1. Download and install the toolkit as instructed in this page https://github.com/IGEE-IHVI/iHVI-app/tree/main. 
 
-2. Obtain environmental parameters from iGEE and socio-economic indicators from ABS website in .csv format.
+2. Obtain environmental parameters from iGEE tool and socio-economic indicators from ABS website in .csv format. 
 
 <img src="Indicators.png" style="width:100%;"/>
 
@@ -21,8 +21,6 @@ The data input buttons are on the second row, including LST, NDVI, NDBI, Populat
 [Note: You can have other columns for the data and different file names but this is will not affect the process.]. One example of the file column is shown below: 
 
 <img src="Column_name.png" style="width:100%;"/>
-
-
 
 5. The data input buttons are on the second row, click on each button to upload the respective environmental and socio-economic indicator files. When  “X” changes to a “|.” it indicates all files are inputted correctly.
 
